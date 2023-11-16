@@ -1,0 +1,12 @@
+total 0
+-rw-r--r-- 1 hyeri 197609 0 Nov 15 13:33 README.md
+-rw-r--r-- 1 hyeri 197609 0 Nov 15 13:34 backup_module.py
+-rw-r--r-- 1 hyeri 197609 0 Nov 15 13:33 classification_experiment.py
+-rw-r--r-- 1 hyeri 197609 0 Nov 15 13:42 file_list.txt
+drwxr-xr-x 1 hyeri 197609 0 Nov 15 13:35 nil/
+total 1.0K
+-rw-r--r-- 1 hyeri 197609   0 Nov 15 13:33 README.md
+-rw-r--r-- 1 hyeri 197609   0 Nov 15 13:34 backup_module.py
+-rw-r--r-- 1 hyeri 197609   0 Nov 15 13:33 classification_experiment.py
+-rw-r--r-- 1 hyeri 197609 288 Nov 15 13:42 file_list.txt
+drwxr-xr-x 1 hyeri 197609   0 Nov 15 13:35 nil/
